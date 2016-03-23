@@ -3,7 +3,7 @@
 Summary:	Improved check_mem.pl Nagios Plugin
 Name:		monitoring-plugin-%{plugin}
 Version:	1.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Networking
 Source0:	https://github.com/justintime/nagios-plugins/archive/master/%{plugin}.tar.gz
