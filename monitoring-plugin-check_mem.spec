@@ -1,5 +1,4 @@
 %define		plugin	check_mem
-%include	/usr/lib/rpm/macros.perl
 Summary:	Improved check_mem.pl Nagios Plugin
 Name:		monitoring-plugin-%{plugin}
 Version:	1.0
